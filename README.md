@@ -11,6 +11,7 @@ I would also like to thank www.theschoolofai.in to give me this opporthunity to 
 ## Prerequisites
 - Python 3.6+
 - PyTorch 1.0+
+- GIMP
 
 ## Creation of dataset
 ### Choosing of background images
