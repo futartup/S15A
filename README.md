@@ -16,6 +16,7 @@ I would also like to thank www.theschoolofai.in to give me this opporthunity to 
 ## Creation of dataset
 ### Choosing of background images
 For choosing background images i have choosen the natural scenery images. The scenery images are choosen in such a way that there are very less subjects in the image. I will overlay foreground images on top of these scene images on randon positions. 
+The duplicate images produces bias so these images are reduced using this [code](https://github.com/futartup/S15A/blob/master/detect_and_remove_duplicate_images.py).
 
 The number of these backgroud images are 100 of size 224 * 224.
 The scene images are as follows-
