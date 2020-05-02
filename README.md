@@ -30,6 +30,16 @@ For foreground images the size is 100 * 100. All the images are of cars. The ima
 ![alt-text-1](https://github.com/futartup/S15A/blob/master/raw_images/foreground_images_100/maruti-suzuki-car-india-car.png) 
 ![alt-text-2](https://github.com/futartup/S15A/blob/master/raw_images/foreground_images_100/24-249294_ktm-1290-super-duke-r-motorcycle-bike-png.png)
 
+These foreground images are flipped randomly.
+
+### Masked images of foreground images
+Each foreground images are masked using GIMP software and it looks as follows-
+
+![alt-text-1](https://github.com/futartup/S15A/blob/master/raw_images/masked_images_100/20-209366_asia-hero-motorcycle-bikes-prices-in-pakistan-super.jpg) 
+![alt-text-2](https://github.com/futartup/S15A/blob/master/raw_images/masked_images_100/2013-toyota-corolla-le-car-toyota-sienna-front-wheel-drive-toyota-thumbnail.jpg ) 
+![alt-text-1](https://github.com/futartup/S15A/blob/master/raw_images/masked_images_100/2016-land-rover-range-rover-sport-2017-land-rover-range-rover-sport-car-rover-company-rang-thumbnail.jpg) 
+![alt-text-2](https://github.com/futartup/S15A/blob/master/raw_images/masked_images_100/bmw-png-transparent-images-169843-174756.jpg)
+
 ## Approach
 
 
