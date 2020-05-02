@@ -16,7 +16,7 @@ I would also like to thank www.theschoolofai.in to give me this opporthunity to 
 ### Choosing of background images
 For choosing background images i have choosen the natural scenery images. The scenery images are choosen in such a way that there are very less subjects in the image. I will overlay foreground images on top of these scene images on randon positions. The number of these backgroud images are 100 of size 224 * 224.
 The scene images are as follows-
-![alt-text-1](0.png "scene-1") ![alt-text-2](1.png "scene-2") ![alt-text-1](2.png "scene-2") ![alt-text-2](3.png "scene-3")
+![alt-text-1](16ms-17c-sardar-petal-road-adyar-ARJ.png "scene-1") ![alt-text-2](1.png "scene-2") ![alt-text-1](2.png "scene-2") ![alt-text-2](3.png "scene-3")
 
 ## Approach
 
