@@ -68,9 +68,9 @@ Each fg_bg images are passed through [this model](https://github.com/ialhashim/D
 ![alt-text-2](https://github.com/futartup/S15A/blob/master/raw_images/depth_bw/20.jpg).
 
 ### Total images
-- There will be total 400K fg_bg images [here](https://drive.google.com/drive/u/0/folders/1WJQGT_Rhb-UW1Z9JOdZhkKr1LCZW14b3)
-- There will be total 400K mask images [here](https://drive.google.com/drive/u/0/folders/1QOrmewdLddslLaxugLRbZJh5G-KVF0bF)
-- There will be total 400K depth images [here](https://drive.google.com/drive/u/0/folders/13juk_B8cb9h1kOO0MrlDDrItv9DEtWQO)
+- There will be total 400K fg_bg images [here](https://drive.google.com/drive/u/0/folders/1iYDL7k2rHR-2E26U7OCEFDO0b1ybaTiA)
+- There will be total 400K mask images [here](https://drive.google.com/drive/u/0/folders/1zHdntBaQzseCn_UX-ppLu32t9sfGYGO9)
+- There will be total 400K depth images [here](https://drive.google.com/drive/u/0/folders/1qSgL904seTUoUB3jbaEDY7qqtVRuJTe1)
 
 
 ### Results and some observations S15A submission
